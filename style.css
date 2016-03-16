@@ -1,0 +1,18 @@
+@import url(fonts/thsarabunnew.css);
+
+
+body{ font-family: 'THSarabunNew', sans-serif; font-size: 0.95em; line-height: 1.7em; padding-left: 40px; }
+h1,h2,h3,h4,h5{ line-height: 2em; clear: both; }
+h2{ color: #000; margin: 20px 0 10px; background-color:#eee; padding-left: 10px; }
+p{ padding: 0 0 10px 0; }
+.n{ font-weight: normal; font-style: normal; }
+.nb{ font-weight: normal; font-size: 2.0em; }
+.b{ font-weight: bold; font-style: normal; }
+.i{ font-weight: normal; font-style: italic; }
+.bi{ font-weight: bold; font-style: italic; }
+ul,ol{padding: 0 0 10px 0;}
+li{ margin: 0 0 0 2em; padding: 0 0 5px 0; }
+code{ background: #FFF; }
+#container{ width: 960px; }
+.right{text-align: right;}
+.type{ font-family: 'THSarabunNew', sans-serif; height: 5em; width: 98%;font-size: 1em;clear: both;margin: 20px auto 10px;padding: 5px 1%; }
